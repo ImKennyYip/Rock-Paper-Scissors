@@ -1,5 +1,6 @@
 # [Rock Paper Scissors](https://youtu.be/fIBOydve2f8)
-Coding Tutorial: https://youtu.be/fIBOydve2f8
+- Coding Tutorial: https://youtu.be/fIBOydve2f8
+- Demo: https://imkennyyip.github.io/Rock-Paper-Scissors/
 
 In this tutorial, you will learn how to make the simple game of rock paper scissors. You will learn how to use javascript to create and update web elements on the page while making this game.
 
